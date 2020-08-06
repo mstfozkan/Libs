@@ -28,3 +28,5 @@
 .svn/format
 .svn/entries
 Project Logs for LIBRARY_PROJECT/BARKO_SCHLIB SCH ECO 15-07-2020 12-00-26.LOG
+*.Zip
+*.svn-base
