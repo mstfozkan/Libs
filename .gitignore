@@ -35,3 +35,6 @@ BARKO_SCHLIB/BARKO_SCHLIB.ERR
 *.CMP
 *.CMPPreview
 SCHLIB/__Previews/BARKO_SCHLIB.ERRPreview
+*.rep
+*.repPreview
+*.csv
