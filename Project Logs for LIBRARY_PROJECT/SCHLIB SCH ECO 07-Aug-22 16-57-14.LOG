@@ -1,0 +1,7 @@
+Change Value of Parameter Case/Package in Part U? Old=VQFN New=VQFN-41
+Change Value of Parameter Category in Part U? Old=Integrated Circuits (ICs) New=Smart Power Stage
+Change Component Parameter Comment in U? Old= New=CSD95480RWJT
+Added Parameter Category=Smart Power Stage to Part U?
+Added Parameter Input Voltage (Max)=16 to Part U?
+Added Parameter Input Voltage (Min)=4.5 to Part U?
+Added Parameter Output Current (Max)=70 to Part U?

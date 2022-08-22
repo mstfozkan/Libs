@@ -1,0 +1,10 @@
+Change Value of Parameter Category in Part U? Old=Voltage Regulators - Switching New=Multiphase Switching Controller
+Change Value of Parameter Category in Part U? Old=Uncategorized New=Multiphase Switching Controller
+Change Value of Parameter Category in Part U? Old=Integrated Circuits (ICs) New=Multiphase Switching Controller
+Change Component Parameter Comment in U? Old= New=TPS53676RSLT
+Added Parameter Input Voltage (Max)=18 to Part U?
+Added Parameter Input Voltage (Min)=4.5 to Part U?
+Added Parameter Output Current (Max)=280 to Part U?
+Added Parameter Outputs (Max)=2 to Part U?
+Added Parameter Output Voltage (Max)=5 to Part U?
+Added Parameter Phases (Max)=7 to Part U?
